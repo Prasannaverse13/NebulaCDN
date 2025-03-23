@@ -1,6 +1,6 @@
 # NebulaCDN: Decentralized Content Delivery Network
 
-![NebulaCDN Logo](generated-icon.png)
+![Screenshot (1078)](https://github.com/user-attachments/assets/2c1d012f-5999-4b79-99dc-1b7b14b73448)
 
 NebulaCDN is a Web3-powered Decentralized Content Delivery Network (DCDN) that leverages Node Consensus Networks (NCNs) using the Cambrian SDK and Jito Restaking on Solana. It distributes and caches content closer to users in a decentralized manner, ensuring faster load times and resilience against DDoS attacks.
 
