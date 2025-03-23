@@ -194,14 +194,6 @@ NebulaCDN leverages Proof-of-Authority (PoA) from the Cambrian Consensus Program
 2. Slashing conditions apply for misbehavior
 3. Multi-signature requirements prevent rogue nodes from acting independently
 
-## 🛠️ Getting Started
-
-This section would contain installation and setup instructions for local development.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
 
 - Jito Restaking for providing the economic security layer
